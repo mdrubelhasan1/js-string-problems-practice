@@ -38,4 +38,6 @@ function isPrime(number) {
   
     return true;
   }
+  const myNumber = isPrime(13);
+  console.log(myNumber);
   
